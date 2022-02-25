@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 ## Compute OBSO
 * Run `calculate_obso.py` for computing OBSO.
-* `Metrica_IO`, `Metrica_Viz`, `Metrica_Velocities`, `Metrica_PitchControl`, `Metrica_EPV`, `obso_player.py`, `third_party.py`, `Transition_gauss.csv` are related files.
+* `Metrica_IO`, `Metrica_Viz`, `Metrica_Velocities`, `Metrica_PitchControl`, `Metrica_EPV`, `obso_player.py`, `third_party.py`, `Transition_gauss.csv`, `EPV_grid.csv` are related files.
